@@ -1,0 +1,28 @@
+.superpowers/
+__pycache__/
+*.pyc
+.validator-deps/
+.tools/
+
+# Local media and generated editing artifacts
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM][kK][vV]
+*.[aA][vV][iI]
+*.[wW][eE][bB][mM]
+*.[mM][pP]3
+*.[wW][aA][vV]
+*.[fF][lL][aA][cC]
+*.[mM]4[aA]
+*.[aA][aA][cC]
+*.[oO][gG][gG]
+video-output/
+edit-project.json
+*cleanup-plan*.json
+*validation-report*.json
+*candidate-proposal*.json
+qc-frames/
+
+# Locally downloaded FFmpeg tools
+ffmpeg*.exe
+ffprobe*.exe
