@@ -1,0 +1,4 @@
+interface:
+  display_name: "FPS Highlight Editor"
+  short_description: "Create reviewable FPS highlights with music and safe cleanup"
+  default_prompt: "Use $fps-highlight-editor to analyze my FPS footage, propose highlights, and create a versioned first cut."
